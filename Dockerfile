@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8080
 
 # Jalankan aplikasi
-CMD ["node", "src/server/server.js"]
+CMD ["node", "src/script/main.js"]
